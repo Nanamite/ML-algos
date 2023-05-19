@@ -1,2 +1,2 @@
 # ML-algos
-some of the algorithms in my version of code
+my implementation of some of the algorithms 
